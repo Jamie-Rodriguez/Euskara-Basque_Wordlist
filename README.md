@@ -9,10 +9,3 @@ There is no command line argument capability, but as the scripts are very simpli
 
 ## Requirements
 This code was written for Python 3
-
-## To Do
-Parse the text file from site 2 into only Basque words i.e. remove the Spanish translation strings. Eliminate duplicate lines.
-
-## Note
-Although it is not against the sites' terms of service and my code is polite with its crawling and not spamming their server with requests, I have decided to remove the URLs to the sites used as a courtesy in case in the future they decide to change their ToS.
-In any case the wordlists are still provided for anyone that just wants the wordlist and not the code.
